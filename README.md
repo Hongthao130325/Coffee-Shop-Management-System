@@ -54,7 +54,7 @@ Online Customers dashboard interface
 
 ### Shop Owner – Core Management Features 
 
-Menu Management: Allows the shop owner to add, edit, and remove menu items
+Menu Management: Allows the shop owner to add, edit, and remove menu  items
 
 <img width="800" src="https://github.com/user-attachments/assets/6ef19b08-d104-435d-ad80-04554b7c21aa" />
 
